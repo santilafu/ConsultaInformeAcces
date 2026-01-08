@@ -38,14 +38,7 @@ El informe final (`Informe_Productos_VFinal`) ha sido diseñado cumpliendo estri
 | `Consulta_Informe_VFinal.pdf` | **Muestra del resultado**. Exportación en PDF del informe generado para visualización rápida sin necesidad de Access. |
 | `README.md` | Documentación técnica del proyecto. |
 
-## 📖 Instrucciones de Uso
-
-Para probar el proyecto en local:
-
-1.  Clona este repositorio o descarga el archivo `.accdb`.
-2.  Abre el archivo con **Microsoft Access**.
-3.  Si se solicita, haz clic en **"Habilitar contenido"** (necesario para las macros de Northwind).
-4.  En el panel de navegación, busca la sección **Informes** y ejecuta: `Informe_Productos_Final`.
+## 📖 Informe en PDF.
 
 ---
 - Autor: Santiago Lafuente Hernández
